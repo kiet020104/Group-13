@@ -1,0 +1,6 @@
+NHANTHANH: 4
+lam: 3
+kiet: 3
+binh: 2
+chan: 1
+c: 1
